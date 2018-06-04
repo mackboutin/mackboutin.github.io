@@ -1,11 +1,47 @@
-.flair {
-	color: #F0F;
+.bodyFill {
+	background-color: #98fb98;
+	border-width:3%;
+	border-style: solid;
+	border-color: #471C01;
 }
 
 .titleTxt {
-
+	text-align: center;
 }
 
 .tempTxt {
-
+	text-indent: 5%;
 }
+	
+	.flair {
+	color: #471C01;
+	text-decoration: bold;
+}
+
+.links {
+	text-align: center;
+}
+
+	.spacerTab {
+		padding-left: 3%; 
+	}
+
+.growth {
+	text-align: center; 
+}
+
+	.seed {
+		display: inline-block;
+	}
+
+	.sprout {
+		display: none;
+	}
+
+	.sapling {
+		display: none;
+	}	
+
+	.tree {
+		display: none;
+	}
